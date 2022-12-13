@@ -1,4 +1,4 @@
-#scraper.py
+#scraper
 
 'Scraper.py' is a Python module that defines the 'Scraper' class. This class has the following methods:
 
